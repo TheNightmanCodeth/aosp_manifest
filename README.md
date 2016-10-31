@@ -1,5 +1,5 @@
 ![TheNightman](http://i.imgur.com/jn8RUZf.png)
-# AOSP by TheNightman
+# [AOSP by TheNightman](http://lmgtfy.com/?t=i&q=nightman)
 This is the default manifest for my custom source-built AOSP rom.
 For now it is exactly as I forked it, but it will be mine soon.
 
